@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.tile('Going through a new process')
+streamlit.title('Going through a new process')
