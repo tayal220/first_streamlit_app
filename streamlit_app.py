@@ -1,3 +1,6 @@
 import streamlit
 
-streamlit.title('Going through a new process')
+streamlit.title('Beginning a new process')
+streamlit.header('Snowflake basket addition')
+
+streamlit.text('Learning git integration with streamlit')
